@@ -1,0 +1,13 @@
+# Theme
+theme = dark:zenbones_dark,light:zenbones_light
+
+# Font
+font-family = Droid Sans Mono Dotted for Powerline
+
+# Transparency
+background-opacity  = 0.75
+background-blur     = true
+
+# Cursor style
+cursor-style        = block
+cursor-style-blink  = true
